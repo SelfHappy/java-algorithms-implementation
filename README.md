@@ -1,3 +1,5 @@
+dong第一次修改
+
 Java : Algorithms and Data Structure ![alt tag](https://api.travis-ci.org/phishman3579/java-algorithms-implementation.svg?branch=master)
 ==============================
 
@@ -133,7 +135,7 @@ This is a collection of algorithms and data structures I've implemented in my ac
   + multiplication
   + absolute value
   + polar value
- 
+
 ## Graphs
 * Find shortest path(s) in a Graph from a starting Vertex
   - [Dijkstra's algorithm (non-negative weight graphs)](src/com/jwetherell/algorithms/graph/Dijkstra.java)
